@@ -5,18 +5,18 @@ body {
   margin: auto;
 }
 
- li {
-  display: inline-flex;
+ul li {
+  padding: 10px;
+  list-style-type: none;
 }
 
-nav a {
+nav {
   font-size: 35px;
+  display: inline-flex;
 }
 
 li a {
   color: white;
-  list-style-type: none;
-  display: inline-flex;
 }
 
 nav ul a {
