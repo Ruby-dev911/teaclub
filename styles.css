@@ -15,6 +15,7 @@ nav a {
 
 li a {
   color: white;
+  list-style-type: none;
 }
 
 nav ul a {
