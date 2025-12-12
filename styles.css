@@ -15,6 +15,7 @@ nav a {
 li a {
   text-decoration: none;
   color: white;
+  display: flex;
 }
 
 .welcome {   
