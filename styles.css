@@ -24,6 +24,7 @@ nav li {
   max-height: 1200px;
   width: auto;
   background-repeat: no-repeat;
+  background-position: 50%;
   align-items: center;
 }
 
