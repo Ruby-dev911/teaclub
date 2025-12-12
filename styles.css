@@ -41,9 +41,10 @@ h1 {
   font-size: 48px;
   font-weight: 400;
   color: white;
-  text-shadow: 1px 2px 3px #de9bce,
+  text-shadow: 
+  1px 1px 3px #de9bce,
   0 0 2em #f158eacb,
-  0 0 4em #f158eacb;
+  0 0 0.4em #f158eacb;
   opacity: 0.8;
 }
 
