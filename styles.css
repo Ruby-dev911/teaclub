@@ -6,6 +6,7 @@ body {
 }
 
 ul li {
+  display: inline;
 }
 
 nav a {
@@ -16,7 +17,10 @@ nav a {
 li a {
   text-decoration: none;
   color: white;
-  display: flex;
+}
+
+nav ul a {
+  color: white;
 }
 
 .welcome {   
@@ -34,6 +38,10 @@ h1 {
   font-size: 48px;
   font-weight: 400;
   color: white;
+  text-shadow: 0em 0em 3em #de9bce,
+  0em 0em 4em #ee41fa,
+  0em 0em 4em #ee41fa;
+  opacity: 0.8;
 }
 
 h2 {
