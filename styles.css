@@ -6,13 +6,16 @@ body {
 }
 
 ul li {
-  display: inline-flex;
-  flex-direction: row;
   list-style-type: none;
   text-decoration: none;
   color: white;
 }
 
+nav a {
+  list-style-type: none;
+  text-decoration: none;
+}
+  
 
 .welcome {   
   background-image: url("./pexels-fu-zhichao-176355-587741.jpg");
