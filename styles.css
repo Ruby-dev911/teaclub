@@ -5,13 +5,10 @@ body {
   margin: auto;
 }
 
-nav {
+nav li {
   display: inline flex;
   justify-content: center;
   flex-direction: row;
-}
-
-nav li {
   list-style-type: none;
   text-decoration: none;
   color: white;
