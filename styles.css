@@ -6,14 +6,16 @@ body {
 }
 
 ul li {
-  color: white;
 }
 
 nav a {
   list-style-type: none;
-  text-decoration: none;
 }
-  
+
+li a {
+  text-decoration: none;
+  color: white;
+}
 
 .welcome {   
   background-image: url("./pexels-fu-zhichao-176355-587741.jpg");
