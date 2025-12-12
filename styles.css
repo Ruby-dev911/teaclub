@@ -14,4 +14,16 @@ h1 {
   color: white;
 }
 
+h2 {
+  font-family: "Italianno";
+  font-size: 27px;
+  color:antiquewhite;
+}
 
+p {
+  font-family: "Stalemate";
+  font-size: 16px;
+  font-weight: 400;
+  color:rgb(130, 9, 10);
+
+}
