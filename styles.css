@@ -5,7 +5,7 @@ body {
   margin: auto;
 }
 
-nav li {
+nav a li {
   display: inline flex;
   justify-content: center;
   flex-direction: row;
