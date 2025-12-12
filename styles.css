@@ -16,6 +16,7 @@ nav a {
 li a {
   color: white;
   list-style-type: none;
+  display: inline-flex;
 }
 
 nav ul a {
