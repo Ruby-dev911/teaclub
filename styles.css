@@ -6,9 +6,10 @@ body {
 }
 
 nav a li {
-  display: inline flex;
+  display: inline-flex;
   justify-content: center;
   flex-direction: row;
+  align-content: center;
   list-style-type: none;
   text-decoration: none;
   color: white;
