@@ -1,7 +1,9 @@
 /* head styles */
 
 body {
-  background-image: url ("./pexels-fu-zhichao-176355-587739.jpg");
+  background-color: rgb(0, 200, 10);
+  
+  background-image: url ("pexels-fu-zhichao-176355-587741.jpg");
   background-size: cover;
   max-height: 1200px;
   width: auto;
