@@ -8,7 +8,6 @@ body {
 nav a ul {
   display: inline-flex;
   flex-direction: row;
-  align-content: center;
   list-style-type: none;
   text-decoration: none;
   color: white;
