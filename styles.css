@@ -24,6 +24,7 @@ nav li {
   max-height: 1200px;
   width: auto;
   background-repeat: no-repeat;
+  align-items: center;
 }
 
 h1 {
@@ -31,14 +32,12 @@ h1 {
   font-size: 48px;
   font-weight: 400;
   color: white;
-  text-align: center;
 }
 
 h2 {
   font-family: "Italianno";
   font-size: 27px;
   color:antiquewhite;
-  text-align: center;
 }
 
 p {
