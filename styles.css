@@ -1,15 +1,17 @@
 /* head styles */
 
 body {
-  background-image: url ("pexels-fu-zhichao-176355-587739.jpg");
+  background-image: url ("./pexels-fu-zhichao-176355-587739.jpg");
   background-size: cover;
   max-height: 1200px;
   width: auto;
+  background-repeat: no-repeat;
+  
 }
 
 h1 {
-  font-family: "Ballet";
-  font-size: 30px;
+  font-family: "Monsieur La Doulaise";
+  font-size: 48px;
   font-weight: 400;
   color: white;
 }
