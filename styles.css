@@ -1,7 +1,7 @@
 /* head styles */
 
 body {
-  background-color: rgb(252, 250, 177;
+  background-color: rgb(252, 250, 177);
   margin: auto;
 }
 
@@ -10,6 +10,13 @@ nav {
   justify-content: center;
   flex-direction: row;
 }
+
+nav li {
+  list-style-type: none;
+  text-decoration: none;
+  color: white;
+}
+
 
 .welcome {   
   background-image: url ("pexels-fu-zhichao-176355-587741.jpg");
