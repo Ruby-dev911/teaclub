@@ -5,9 +5,8 @@ body {
   margin: auto;
 }
 
-nav a {
+nav a ul {
   display: inline-flex;
-  justify-content: center;
   flex-direction: row;
   align-content: center;
   list-style-type: none;
