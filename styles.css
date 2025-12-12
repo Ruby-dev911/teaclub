@@ -6,21 +6,21 @@ body {
 }
 
 ul li {
-  display: inline;
+  display: inline-flex;
 }
 
 nav a {
-  list-style-type: none;
   font-size: 35px;
 }
 
 li a {
-  text-decoration: none;
   color: white;
 }
 
 nav ul a {
   color: white;
+  list-style-type: none;
+  text-decoration: none;
 }
 
 .welcome {   
@@ -29,7 +29,7 @@ nav ul a {
   max-height: 1200px;
   width: auto;
   background-repeat: no-repeat;
-  background-position:90%;
+  background-position:100%;
   text-align: center;
 }
 
