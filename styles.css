@@ -21,8 +21,7 @@ nav a {
   max-height: 1200px;
   width: auto;
   background-repeat: no-repeat;
-  background-position: 50%;
-  align-items: center;
+  background-position:80%;
 }
 
 h1 {
@@ -40,7 +39,11 @@ h2 {
 
 p {
   font-family: "Stalemate";
-  font-size: 20px;
+  font-size: 22px;
   font-weight: 400;
   color:rgb(130, 9, 10);
+}
+
+p, h2 , h1, nav {
+  text-align: center;
 }
