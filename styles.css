@@ -5,7 +5,7 @@ body {
   margin: auto;
 }
 
-ul li {
+ li {
   display: inline-flex;
 }
 
