@@ -29,7 +29,7 @@ nav ul a {
 .welcome {   
   background-image: url("./pexels-fu-zhichao-176355-587741.jpg");
   background-size: cover;
-  max-height: 2000px;
+  min-height: 2000px;
   width: auto;
   background-repeat: no-repeat;
   background-position:100%;
@@ -58,4 +58,12 @@ p {
   font-size: 22px;
   font-weight: 400;
   color:rgb(130, 9, 10);
+}
+
+.n {
+  background-image: url("./pexels-hatice-1054684715-33785560.jpg");
+  opacity: 0.9;
+  min-height: 3000px;
+  width: auto;
+  background-repeat: no-repeat;
 }
